@@ -18,4 +18,4 @@ A front-end clone of Instagram’s login page built with HTML and CSS, replicati
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/portfolio-profile/instagram-clone.git
+   git clone https://github.com/portfolio-profile/instagram-login-clone.git
