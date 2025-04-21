@@ -8,7 +8,7 @@ A front-end clone of Instagram’s login page built with HTML and CSS, replicati
 - **Interactive Elements**: Includes a login form, Facebook login button, and language selector.
 
 ## Screenshots
-![Login Page](screenshots/login-page.png)
+![Login Page](instagram-login.PNG)
 ![Mobile View](screenshots/mobile-view.png)
 
 ## Tech Stack
