@@ -9,7 +9,6 @@ A front-end clone of Instagram’s login page built with HTML and CSS, replicati
 
 ## Screenshots
 ![Login Page](instagram-login.PNG)
-![Mobile View](screenshots/mobile-view.png)
 
 ## Tech Stack
 - **HTML5**: Page structure.
